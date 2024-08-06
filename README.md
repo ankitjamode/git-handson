@@ -1,2 +1,2 @@
 # git-handson
-git practice
+git practice demo
